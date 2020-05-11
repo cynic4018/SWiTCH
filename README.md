@@ -1,13 +1,12 @@
 # SWiTCH
 SWiTCH is a puzzle-indie game that player control the character to reach the door. By this game has gimmick about switch that is key to make player pass in each stage. 
 
-**Link to Download:**  [Click here](https://drive.google.com/drive/folders/1uWgUXbDO7s7HSRouEYre6bg8v7vNJJ2b?usp=sharing)
+**Link to Download:**  [Click here](https://drive.google.com/file/d/18-FYPS3xV98O-yp69Bpn6NCXit5p-GAX/view?usp=sharing)
 ## *Installation*
-1. Select the folder between the silent version and full version.
-2. Download file in the folder.
-3. Extract zip file to get the game folder.
-4. Click to run SuperUFO.exe
-5. Let's fun!!
+1. Download file in the folder.
+2. Extract zip file to get the game folder.
+3. Click to run SWiTCH.exe
+4. Let's fun!!
 
 ## *Interface*
 ![Unity_oFjaq15LRE](https://user-images.githubusercontent.com/32285642/81612853-ac9eed80-9407-11ea-9ae5-2af0ebe42eeb.png)
