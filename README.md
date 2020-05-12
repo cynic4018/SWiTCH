@@ -1,5 +1,5 @@
 # SWiTCH
-SWiTCH is a puzzle-indie game that player control the character to reach the door. By this game has gimmick about switch that is key to make player pass in each stage. 
+SWiTCH is a indie-puzzle game that player control the character to reach the door. By this game has gimmick about switch that is key to make player pass in each stage. 
 
 **Link to Download:**  [Click here](https://drive.google.com/file/d/18-FYPS3xV98O-yp69Bpn6NCXit5p-GAX/view?usp=sharing)
 ## *Installation*
